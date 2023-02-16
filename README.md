@@ -1,17 +1,20 @@
-# 3 sum
+# Decimal to binary
 
 
-# Instructions 
+## Instructions 
 
-Given an array S of n integers, find three integers in S such that the sum is closest to a given number, target.
-Return the sum of the three integers.
+###Given a decimal number as input, we need to write a program to convert the given decimal number into an equivalent binary number.
 
-Assume that there will only be one solution.
-You only need to complete the `threeSum` function inside `script.js`
+Examples: 
 
-Example:
-given array S = {-1 2 1 -4},
+```
+Input : 7
+Output : 111
 
-and target = 1.
+Input : 10
+Output : 1010
 
-The sum that is closest to the target is 2. (-1 + 2 + 1 = 2)
+Input: 33
+Output: 100001
+
+```
