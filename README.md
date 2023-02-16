@@ -3,7 +3,7 @@
 
 ## Instructions 
 
-###Given a decimal number as input, we need to write a program to convert the given decimal number into an equivalent binary number.
+### Given a decimal number as input, we need to write a program to convert the given decimal number into an equivalent binary number.
 
 Examples: 
 
